@@ -17,4 +17,5 @@ you will be able to find inspiration to find your own way to dance.
 Theory
 ======
 1. [First class](theory/intro.md)
+2. [Pivot & Ocho](theory/ocho.md)
 
