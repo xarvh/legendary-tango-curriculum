@@ -18,4 +18,12 @@ Theory
 ======
 1. [First class](theory/intro.md)
 2. [Pivot & Ocho](theory/ocho.md)
+3. [Salida](theory/salida.md)
+
+Practice
+========
++ [Connection](practice/connection.md)
++ [Technique](practice/technique.md)
++ [Combinations](practice/combinations.md)
++ [Social Dancing](practice/social_dancing.md)
 
