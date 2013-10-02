@@ -19,6 +19,7 @@ Theory
 1. [First class](theory/intro.md)
 2. [Pivot & Ocho](theory/ocho.md)
 3. [Salida](theory/salida.md)
+3. [Crusado](theory/crusado.md)
 
 Practice
 ========
@@ -26,4 +27,6 @@ Practice
 + [Technique](practice/technique.md)
 + [Combinations](practice/combinations.md)
 + [Social Dancing](practice/social_dancing.md)
+
+* [WIP](practice/experiments.md)
 
