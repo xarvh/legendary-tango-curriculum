@@ -12,3 +12,5 @@ Follower with arms together, both forearms on leader's chest, leader's arms on f
 + Symmetric close embrace
 Leader uses no hands; follower keeps both hands on leader's shoulders
 
++ Focus on feeling the partner's body as an extension of one's own.
+
