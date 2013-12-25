@@ -24,10 +24,12 @@ Theory
 
 Practice
 ========
-+ [Connection](practice/connection.md)
-+ [Technique](practice/technique.md)
-+ [Combinations](practice/combinations.md)
-+ [Social Dancing](practice/social_dancing.md)
+* [Connection](practice/connection.md)
+* [Technique](practice/technique.md)
+* [Combinations](practice/combinations.md)
+* [Social Dancing](practice/social_dancing.md)
 
+Work In Progress
+================
 * [WIP](practice/experiments.md)
 
