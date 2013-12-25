@@ -17,9 +17,10 @@ you will be able to find inspiration to find your own way to dance.
 Theory
 ======
 1. [First class](theory/intro.md)
-2. [Pivot & Ocho](theory/ocho.md)
-3. [Salida](theory/salida.md)
-3. [Crusado](theory/crusado.md)
+1. [Pivot & Ocho](theory/ocho.md)
+1. [Tecnica] (theory/tecnica.md)
+1. [Salida](theory/salida.md)
+1. [Crusado](theory/crusado.md)
 
 Practice
 ========
