@@ -6,7 +6,7 @@
 
 * From sanguicito, L stands, brings side step
 
-* Explain parada: interrupting F leg before it is collected
+* Explain parada: interrupting F leg before it moves
 
 * Paradas
   - On a single side step
