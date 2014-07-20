@@ -1,6 +1,6 @@
 # Parada
 
-* L stands, brings a side step
+* Repeat side step left and right, then L stands and brings a side step (ie: around herself).
 
 * L brings alternate left/right side step, then sanguicito
 
