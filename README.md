@@ -25,24 +25,39 @@ Theory
 + Stepping in your partner's step
 
 
-# Chest rotation & salida
-+ Lead chest rotation: Follower with hands on Leader's shoulders
-+ Lead chest rotation: Double pivot Waist turns twice as much as the chest
-+ Salida from double pivot
-+ Description of salida
-+ Salida from side step
-+ Salida from walk
+# Broken steps
+* Zero position: feet close, knees loose
+* Leg dissociation exercise
+* Broken front step movements
+? Broken side step movements
+* Breaking steps as a way to interpret the music
+* Broken steps lead
+* Breaking steps while walking
+* Confined milonga
+* Rebote
+* More confined milonga
+
+
+# Salida
++ Salida from Walk
++ Description of Salida
 + Keep the embrace solid!
++ Closing a salida with a double pivot
++ Chest rotation
++ Opening a salida with a double pivot
 
 
-# Rebote
-+ Lead sidestep around leader
-+ Rebote
-+ Salida through rebote
-+ Social
+# Follower's Ocho
++ Solo: Forward Step, Free Foot continues to a half-turn Pivot, rinse, repeat
++ Solo: As above, but Backwards Step
++ Pair, no contact: A does as above, B sidesteps with chest towards A, pair steps in sync
++ Without interrupting the exercise above, pair transitions to shoulder embrace.
++ Dissociation: frees the leg to move everywhere without impacting the connection with the partner
++ Dissociate chest and waist
 
 
-# Parada
+
+# WIP Parada
 * Repeat side step left and right, then L stands and brings a side step (ie: around herself).
 * L brings alternate left/right side step, then sanguicito
 * From sanguicito, L stands, brings side step
@@ -51,6 +66,17 @@ Theory
   - On a single side step
   - On ocho, parallela y crusada
 * Breaking the obvious
+
+
+#--------------------------------------------
+
+# WIP Ocho's Lead
++ Chest rotation with shoulders embrace
++ Bring chest rotation: Leader does not use right hand
++ Bring pivot, waist rotates twice as much as chest
++ Waist turns twice as much as the chest
++ Ocho a tras
+? Parada on Ocho a tras
 
 
 # Combinations
@@ -62,7 +88,7 @@ Theory
 + Combination: From rebote to salida
 
 
-# Crusado and parallelo
+# WIP Crusado and parallelo
 TODO: break
 * Rebote with weight change
 * Crusado walk
@@ -76,19 +102,6 @@ TODO: break
 * Left-Right vs Open-Close
 * Ocho is in Crusado
 * Exercise: follower calls left/right/open/close aloud
-
-
-# Ochos
-TODO: break
-* Dissociation: frees the leg to move everywhere without impacting the connection with the partner
-* Dissociate chest and waist
-* Leader brings pivot, Follower keeps body rigid.
-* Bring chest rotation: Follower with hands on Leader's shoulders
-* Bring chest rotation: Leader does not use right hand
-* Bring pivot, waist rotates twice as much as chest
-* Ocho a tras
-
-? Giro
 
 
 # Tecnica
