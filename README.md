@@ -56,7 +56,6 @@ Theory
 + Dissociate chest and waist
 
 
-
 # WIP Parada
 * Repeat side step left and right, then L stands and brings a side step (ie: around herself).
 * L brings alternate left/right side step, then sanguicito
@@ -66,6 +65,11 @@ Theory
   - On a single side step
   - On ocho, parallela y crusada
 * Breaking the obvious
+
+
+# Gancho
+* Salida in crusado
+* Gancho: follower steps forward around leader, stops before collecting, then gancho on backwards step
 
 
 #--------------------------------------------
