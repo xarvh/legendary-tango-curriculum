@@ -14,6 +14,40 @@ Keep and open mind, this is only a voice among many, where I hope
 you will be able to find inspiration to find your own way to dance.
 
 
+
+Newbie-friendly classes
+=======================
+
+# Ochos intro
++ Solo backwards and forwards ocho, learn to turn along the flow
++ As above, with dissociation
++ Solo giro in line
++ Leading the ocho: follower grabs leader shoulders
++ Ocho in open embrace
++ Move: leader steps from the side into the followers' backwards ocho
++ Milonga practice
+
+
+# Salida intro?
++ Starting with the same weight
++ Stepping in each other's steps
++ Salida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Theory
 ======
 
