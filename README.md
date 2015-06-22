@@ -27,12 +27,20 @@ Newbie-friendly classes
 + Move: leader steps from the side into the followers' backwards ocho
 + Milonga practice
 
+# Parada intro
++ Side step technique
++ Side step lead (breaking steps!)
++ Parada from side step
++ Parada, follower transfers weight and walks over
++ Parada, then experiment
+
 
 # Salida intro?
++ Tango null position
++ Shifting weights
 + Starting with the same weight
 + Stepping in each other's steps
 + Salida
-
 
 
 
