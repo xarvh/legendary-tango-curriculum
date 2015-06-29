@@ -34,6 +34,22 @@ Newbie-friendly classes
 + Parada, follower transfers weight and walks over
 + Parada, then experiment
 
+# Musicality
++ Tango null position
++ Brushing the foot forwrd
++ Planeo on the spot, turn right angle
++ Walk
++ Tempos solo (Jess)
++ Tempos with partner
++ Dancing on the beat vs dancing on rhythmless.
+
+# Walks?
++ Weight shift, starting with the same weight
++ Leading the ocho
++ In shoulder embrace, walk forward with ocho in parallelo
++ As above, walk backwards
++ As above, in crusado (backwars and forwards)
++ Smooth the above from the front step to side step
 
 # Salida intro?
 + Tango null position
@@ -42,6 +58,9 @@ Newbie-friendly classes
 + Stepping in each other's steps
 + Salida
 
+#
++ small movements?
++ finales?
 
 
 
