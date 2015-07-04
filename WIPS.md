@@ -27,7 +27,7 @@ Work In Progress-es
 
 
 # ???
-+ single hand embrace
++ single hand embrace (lead chest rotation and ocho)
 + Lead and follow by sight alone, without embrace; lead keeps eyes on follow chest
 + follower calls left/right/open/close aloud
 + Elbow-length embrace (Follower with arms together, both forearms on leader's chest, leader's arms on follower's shoulders)
@@ -56,6 +56,7 @@ Work In Progress-es
 + Make the partner feel the music through your bodies
 
 + Do not rush to show off: when we feel that need, it's a signal that are doing something wrong
+   (followers: be aware of how ou feel when you are waiting)
 + Bring back the attention on the partner's body
 
 + Tragedy and catharsis in tango
