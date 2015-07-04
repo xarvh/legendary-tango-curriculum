@@ -39,9 +39,16 @@ Newbie-friendly classes
 + Brushing the foot forwrd
 + Planeo on the spot, turn right angle
 + Walk
-+ Tempos solo (Jess)
-+ Tempos with partner
-+ Dancing on the beat vs dancing on rhythmless.
++ Tempos solo: teacher counts on song with a stronger beat
+  - to beat
+  - to half beat
+  - to double beat
+  - swithing among the three
++ Tempos solo: personal interpretation on song with stronger beat
++ Tempos solo: personal interpretation on traditional song with subtler beat
++ Repeat the above two with a partner
++ Dancing on the beat vs dancing on rhythmless
++ Dancing the pauses
 
 # Walks?
 + Weight shift, starting with the same weight
